@@ -60,3 +60,7 @@ Answers are stored in Supabase when a visitor completes the questionnaire. No na
 └── docs/
     └── demo.gif        # preview animation
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
