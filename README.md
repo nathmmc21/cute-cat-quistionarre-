@@ -4,7 +4,7 @@ A tiny interactive questionnaire hosted by a very pettable cat. Visitors answer 
 
 **[Live demo](https://YOUR-USERNAME.github.io/purrfect-questions/)**
 
-![Purrfect Questions demo](docs/demo.gif)
+![Purrfect Questions demo](demo.gif)
 
 ## Features
 
