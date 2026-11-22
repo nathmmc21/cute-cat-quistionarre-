@@ -61,6 +61,3 @@ Answers are stored in Supabase when a visitor completes the questionnaire. No na
     └── screenshot.png  # preview image
 ```
 
-## License
-
-MIT, see [LICENSE](LICENSE).
