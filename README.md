@@ -62,5 +62,3 @@ Answers are stored in Supabase when a visitor completes the questionnaire. No na
 ```
 
 ## License
-
-MIT, see [LICENSE](LICENSE).
